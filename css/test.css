@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+}
+
+
+h1{
+	font-size: 45px;
+	color: #14C85B;
+}
+
+h2{
+	color:  palevioletred;
+	font-size:  35px;
+}
+
+.big{
+	font-size:  60px;
+}
+
+span{
+	color: greenyellow;
+}
